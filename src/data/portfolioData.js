@@ -9,7 +9,7 @@ export const personalInfo = {
   phone: "+62 895-1823-8826",
   github: "https://github.com/Rizkisaputra240",
   linkedin: "https://www.linkedin.com/in/dwianandarizkisaputra",
-  resumeUrl: "#",
+  resumeUrl: "/CV_DWI_ANANDA_RIZKI_SAPUTRA_2026.pdf",
 };
 
 export const statsData = [
