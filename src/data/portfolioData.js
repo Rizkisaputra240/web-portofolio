@@ -4,7 +4,7 @@ export const personalInfo = {
   tagline: "Building modern web products with thoughtful engineering",
   status: "Open for Opportunities",
   location: "Sukoharjo, Indonesia",
-  bio: "Hi, I'm DWI ANANDA RIZKI SAPUTRA, a BNSP-certified Web Programmer and Informatics graduate from Universitas Duta Bangsa (GPA 3.54). Experienced in developing full-stack web applications with PHP, MySQL, and React, alongside data-driven workflows using Python. Passionate about building reliable digital systems that solve real operational needs.",
+  bio: "Hi, I'm DWI ANANDA RIZKI SAPUTRA, a BNSP-certified Web Programmer and Informatics graduate from Universitas Duta Bangsa (GPA 3.70). Experienced in developing full-stack web applications with PHP, MySQL, and React, alongside data-driven workflows using Python. Passionate about building reliable digital systems that solve real operational needs.",
   email: "rizkibarker15@gmail.com",
   phone: "+62 895-1823-8826",
   github: "https://github.com/Rizkisaputra240",
@@ -21,7 +21,7 @@ export const statsData = [
 
 export const aboutData = {
   introduction: [
-    "Hi, I'm DWI ANANDA RIZKI SAPUTRA. I am an undergraduate Computer Science (Informatics) student at Universitas Duta Bangsa Surakarta with a GPA of 3.54 / 4.00, primarily focusing on Full-Stack Software Engineering.",
+    "Hi, I'm DWI ANANDA RIZKI SAPUTRA. I am an undergraduate Computer Science (Informatics) student at Universitas Duta Bangsa Surakarta with a GPA of 3.70 / 4.00, primarily focusing on Full-Stack Software Engineering.",
     "I possess hands-on experience designing and building end-to-end web information systems—from crafting responsive user interfaces and robust backend logic to managing structured relational databases and application deployment.",
   ],
   competencies: [
