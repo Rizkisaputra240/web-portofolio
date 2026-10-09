@@ -28,7 +28,7 @@ export default function Hero() {
     "developer.js": `const developer = {
   name: "DWI ANANDA RIZKI SAPUTRA",
   role: "Full-Stack Web Developer",
-  education: "B.C.S. Informatics, UDB (GPA 3.54)",
+  education: "B.C.S. Informatics, UDB (GPA 3.70)",
   certification: "Junior Web Programmer (BNSP)",
   experience: "IT Intern at BPS Surakarta",
   coreSkills: [
@@ -153,7 +153,10 @@ $ npm run build
               </a>
 
               <a
-                href={personalInfo.resumeUrl || "/CV_DWI_ANANDA_RIZKI_SAPUTRA_2026.pdf"}
+                href={
+                  personalInfo.resumeUrl ||
+                  "/CV_DWI_ANANDA_RIZKI_SAPUTRA_2026.pdf"
+                }
                 download
                 className="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl font-semibold text-slate-200 bg-slate-900/80 hover:bg-slate-800 border border-slate-700/80 hover:border-slate-600 hover:-translate-y-0.5 transition-all duration-200"
               >
