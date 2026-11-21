@@ -21,7 +21,7 @@ export const statsData = [
 
 export const aboutData = {
   introduction: [
-    "Hi, I'm DWI ANANDA RIZKI SAPUTRA. I am an undergraduate Computer Science (Informatics) student at Universitas Duta Bangsa Surakarta with a GPA of 3.70 / 4.00, primarily focusing on Full-Stack Software Engineering.",
+    "Hi, I'm DWI ANANDA RIZKI SAPUTRA. I am an undergraduate Informatics Engineering (Informatics) student at Universitas Duta Bangsa Surakarta with a GPA of 3.70 / 4.00, primarily focusing on Full-Stack Software Engineering.",
     "I possess hands-on experience designing and building end-to-end web information systems—from crafting responsive user interfaces and robust backend logic to managing structured relational databases and application deployment.",
   ],
   competencies: [
@@ -384,8 +384,8 @@ export const contactInfo = [
 export const educationData = [
   {
     institution: "Universitas Duta Bangsa Surakarta",
-    program: "Bachelor of Computer Science (Informatics)",
-    gpa: "3.54 / 4.00",
+    program: "Bachelor of Informatics Engineering (Informatics)",
+    gpa: "3.70 / 4.00",
     period: "SEPTEMBER 2022 – OCTOBER 2026",
     year: "Graduating 2026",
     logo: "/UDBLOGO.jpg",
@@ -460,7 +460,7 @@ export const certificatesData = [
   },
   {
     name: "AI for Developers: Rapid Coding & Workflow Optimization",
-    issuer: "Faculty of Computer Science, Universitas Duta Bangsa",
+    issuer: "Faculty of Informatics Engineering, Universitas Duta Bangsa",
     year: "2025",
     image: "/AI Untuk Programmer Rapid Coding.png",
     credentialId: "723/UDB.D1/A.36-KM/VI/2025",
